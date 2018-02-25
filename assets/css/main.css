@@ -1,0 +1,332 @@
+@font-face {
+    font-family: RobotoThin;
+    src: url(http://localhost:8888/PoetryStorm/assets/fonts/Roboto-Thin.ttf);
+}
+
+html {
+	margin: 0;
+
+	font-size: 12pt;
+}
+
+body {
+	margin: 10em 0 0;
+
+	overflow-x: hidden;
+	overflow-y: scroll; 
+	position: relative;
+
+	word-wrap: break-word;
+}
+
+body:before {
+	content: "";
+	position: absolute;
+	width: 90em;
+	height: 120em;
+	left:-15em;
+	z-index: -100;
+
+	/*
+	background: #218b92; /* Old browsers 
+	background: -moz-linear-gradient(45deg,  #218b92 0%, #1d6179 26%, #2989d8 57%, #207cca 78%, #7db9e8 100%); 
+	background: -webkit-gradient(linear, left bottom, right top, color-stop(0%,#218b92), color-stop(26%,#1d6179), color-stop(57%,#2989d8), color-stop(78%,#207cca), color-stop(100%,#7db9e8)); 
+	background: -webkit-linear-gradient(45deg,  #218b92 0%,#1d6179 26%,#2989d8 57%,#207cca 78%,#7db9e8 100%); 
+	background: -o-linear-gradient(45deg,  #218b92 0%,#1d6179 26%,#2989d8 57%,#207cca 78%,#7db9e8 100%); 
+	background: -ms-linear-gradient(45deg,  #218b92 0%,#1d6179 26%,#2989d8 57%,#207cca 78%,#7db9e8 100%);
+	background: linear-gradient(45deg,  #218b92 0%,#1d6179 26%,#2989d8 57%,#207cca 78%,#7db9e8 100%); 
+	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#218b92', endColorstr='#7db9e8',GradientType=1 ); 
+*/
+	background: #00232b; /* Old browsers */
+	background: url(http://localhost:8888/PoetryStorm/assets/img/Stars.png), -moz-linear-gradient(top,  #00232b 0%, #013342 19%, #145067 43%, #1d6179 74%, #218b92 100%); /* FF3.6+ */
+	background: url(http://localhost:8888/PoetryStorm/assets/img/Stars.png), -webkit-gradient(linear, left top, left bottom, color-stop(0%,#00232b), color-stop(19%,#013342), color-stop(43%,#145067), color-stop(74%,#1d6179), color-stop(100%,#218b92)); /* Chrome,Safari4+ */
+	background: url(http://localhost:8888/PoetryStorm/assets/img/Stars.png), -webkit-linear-gradient(top,  #00232b 0%,#013342 19%,#145067 43%,#1d6179 74%,#218b92 100%); /* Chrome10+,Safari5.1+ */
+	background: url(http://localhost:8888/PoetryStorm/assets/img/Stars.png), -o-linear-gradient(top,  #00232b 0%,#013342 19%,#145067 43%,#1d6179 74%,#218b92 100%); /* Opera 11.10+ */
+	background: url(http://localhost:8888/PoetryStorm/assets/img/Stars.png), -ms-linear-gradient(top,  #00232b 0%,#013342 19%,#145067 43%,#1d6179 74%,#218b92 100%); 
+	background: url(http://localhost:8888/PoetryStorm/assets/img/Stars.png), linear-gradient(to bottom,  #00232b 0%,#013342 19%,#145067 43%,#1d6179 74%,#218b92 100%); 
+	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#00232b', endColorstr='#218b92',GradientType=0 ); /* IE6-9 */
+
+	-webkit-transform: rotate(12deg);
+	-moz-transform: rotate(12deg);
+	-ms-transform: rotate(12deg);
+	-o-transform: rotate(12deg);
+	transform: rotate(12deg);
+
+	background-image: url(http://localhost:8888/PoetryStorm/assets/img/Stars.png),;
+}
+
+#logo {
+	text-align: center;
+	margin: 1em auto .8em;
+}
+
+#logo img {
+	display: inline;
+	width: 135px;
+	-webkit-box-shadow: 6px 6px 54px 0 rgba(0,0,0,.55);
+	box-shadow: 6px 6px 54px 0 rgba(0,0,0,.55);
+}
+
+div.nav {
+	position:fixed;
+	right: 0;
+	top: 0;
+	padding-right: 3em;
+	padding-top: 1.25em;
+	margin: 0;
+}
+
+.nav ul {
+	list-style: none;
+	font-family: 'RobotoThin';
+	padding: 0;
+	margin: 0;
+}
+
+.nav li {
+	display: inline-block;
+}
+
+.nav a {
+	text-decoration: none;
+	color: #0076da;
+	font-size: 1.8em;
+	margin-left: 2em;
+}
+
+.nav a:hover {
+	font-size: 2em;
+}
+
+div.gridz {
+	width: 64%;
+	margin: 0 0 0 34%;
+	padding: 0;
+}
+
+.gridz div {
+	display: block;
+	margin:0;
+	padding:0;
+	width: 50%;
+	float: right;
+}
+
+div.tagline {
+	font-family: 'Charcoal CY';
+	color: #CCCCCC;
+	text-align: center;
+}
+
+div.write_line_placeholder {
+	height: 16em;
+	text-align: center;
+}
+
+div.write_line {
+	visibility: hidden;
+	position: absolute;
+	right: 4em;
+	top:15em;
+	width: 25%;
+}
+
+div.write_line form {
+	position: relative;
+	top: 0;
+	left: 0;
+}
+
+div.write_line textarea {
+	line-height: 2em;
+	margin:0;
+	font-size: 1em;
+	font-family: Georgia;
+	color: #FFFFFF;
+	border:none;
+	background: none;
+	outline: none;
+	resize:none;
+	position: absolute;
+	left: 30px;
+	bottom: 0px;
+	width: 247px;
+	outline: 1px solid green;
+}
+
+div.write_line input[type=submit] {
+	position: absolute;
+	bottom:0;
+	right:35px;
+
+	border:none;
+	background-color: #FFFFFF;
+	color:#01445c;
+
+	font-size: 1em;
+}
+
+div.login {
+	text-align: center;
+	font-family: 'Gill Sans';
+	color: white;
+	padding-top: 2em;
+}
+
+div.login h3 {
+	font-style: italic;
+	font-weight: 100;
+	font-size: 1em;
+	margin: 2em 0 0;
+}
+
+div.login p {
+	margin: 0;
+	padding: 0;
+}
+
+div.login a:active img {
+	position: relative;
+	top:2px;
+}
+
+div.login a:active img.facebook {
+	width: 263px;
+	height: 58px;
+}
+
+div.login>p a:active img {
+	width: 33px;
+	height: 33px;
+}
+
+div.login img.facebook {
+	width: 266px;
+	height: 60px;
+	/*-webkit-box-shadow: 3px 3px 13px 5px rgba(0,0,0,.55);
+	box-shadow: 3px 3px 13px 5px rgba(0,0,0,.55);
+*/}
+
+div.login>p img {
+	width: 36px;
+	height: 36px;
+	margin: 0 1em;
+}
+
+div.login a {
+	text-decoration: none;
+	display: inline-block;
+	margin: 0;
+}
+
+div.login a.skip {
+	text-decoration: none;
+	color: #CCCCCC;
+	font-weight: 100;
+	font-size: .75em;
+}
+
+div.login a.skip:hover {
+	text-decoration: underline;
+}
+div.hero {
+	padding-top: 6em;
+	text-align: center;
+	font-family: 'Gill Sans';
+}
+
+.hero h3 {
+	color: #999999;
+	font-style: italic;
+	font-weight: 100;
+	font-size: 1.5em;	
+	margin: 0;
+	padding: 0;
+}
+
+.hero img {
+	max-width: 80%;
+	display: inline;
+	margin: 0;
+}
+
+div.poetry a{
+	color: rgba(216,255,216,.55);
+	text-decoration: none;
+
+	font-family: Georgia;
+	text-shadow: 0 0 10px #FFFDFC;
+}
+
+
+div.poetry a:hover{
+	color: #FFFFFF;
+	text-decoration: underline;
+}
+
+div.poetry a:active:after{
+	content: "...";
+	color: #FFFFFF;
+	text-decoration: underline;
+}
+
+
+@media all and (max-width: 1000px) {
+
+	html {
+		max-width: 100%;
+	}
+
+	div.gridz, div.gridz div {
+		margin: auto;
+		width:100%;
+		float: none;
+	}
+
+	div.nav {
+		display: none;
+	}
+
+	div.poetry {
+		margin: auto;
+
+		position: static;
+		-webkit-animation-name: none;
+	}	
+
+	div.write_line_placeholder {
+		display: none;
+	}
+
+}
+		
+
+
+@media all and (max-width: 500px) {
+
+	body {
+		margin-top: 6em;
+	}
+
+	body:before {
+	left:-15em;
+	top: -6em;
+	position: absolute;
+	width: 90em;
+	height: 120em;
+	/*background-attachment: fixed;*/
+	z-index: -100;
+
+	-webkit-transform: rotate(0deg);
+	-moz-transform: rotate(0deg);
+	-ms-transform: rotate(0deg);
+	-o-transform: rotate(0deg);
+	transform: rotate(0deg);
+	}
+
+	#logo {
+	text-align: center;
+	margin: 1em auto .3em;
+	}
+
+}

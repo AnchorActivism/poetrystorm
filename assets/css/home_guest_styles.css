@@ -1,0 +1,22 @@
+@-webkit-keyframes poetry {
+	from {top:25em;}
+	to {top:-35em;}
+}
+
+div.poetry {
+	/*-webkit-transform: rotate(-12deg);
+	-moz-transform: rotate(-12deg);
+	-ms-transform: rotate(-12deg);
+	-o-transform: rotate(-12deg);
+	transform: rotate(-12deg);
+*/
+
+	width: 22em;
+	position: relative;
+	z-index: 100;
+	left: 4em;
+
+	-webkit-animation-name: poetry;
+	-webkit-animation-duration:120s;
+
+}

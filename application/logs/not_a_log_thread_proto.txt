@@ -1,0 +1,157 @@
+//tracker: used to track the user's position in the poem
+
+tracker = {
+	"origin": 16, //integer
+	""
+}
+
+
+
+//thread var after get_thread_alternatives(), array style
+full_poem = [
+	[																		//full_poem[0]    		(arr)
+		{"id":"4","line":"The holy ghost","reply_to":"0"}					//full_poem[0][0] 		(obj)
+	],
+	[
+		{"id":"5","line":"Well, I think you can.","reply_to":"4"},			//full_poem[1][0] 		(obj)
+		[																	//full_poem[1][1] 		(arr)
+			{"id":"5","line":"Well, I think you can.","reply_to":"4"},		//full_poem[1][1][0]	(obj)
+			{"id":"9","line":"Don't you know his plan?","reply_to":"4"}		//full_poem[1][1][1]	(obj)
+		]
+	],
+	[
+		{"id":"7","line":"Well the world, at most, is a homemade crypt","reply_to":"5"},
+		[
+			{"id":"7","line":"Well the world, at most, is a homemade crypt","reply_to":"5"},
+			{"id":"11","line":"Bike wheels turning up the street","reply_to":"5"},
+			{"id":"31","line":"Where's your forest gland?","reply_to":"5"},
+			{"id":"348","line":"see, it's a metaphor for a man, the one I visit in my dreams","reply_to":"5"}
+		]
+	],
+	[
+		{"id":"8","line":"I made from my rib in a lighting dance","reply_to":"7"},
+		[
+			{"id":"8","line":"I made from my rib in a lighting dance","reply_to":"7"},
+			{"id":"52","line":"of golden showers and tattooed truckers' girlfriends","reply_to":"7"},
+			{"id":"189","line":"Cared for, loved, and desolate \n","reply_to":"7"},
+			{"id":"190","line":"Careless, loveless, and filled to the brim","reply_to":"7"}
+		]
+	],
+	[
+		{"id":"16","line":"In a fevered dance","reply_to":"8"},
+		[
+			{"id":"16","line":"In a fevered dance","reply_to":"8"},{"id":"48","line":"A fevered trance.","reply_to":"8"},
+			{"id":"49","line":"Yeller-bellered buck-toothed bad bitches.","reply_to":"8"}
+		]
+	],
+	[
+		{"id":"50","line":"Holy roller,","reply_to":"16"},
+		[
+			{"id":"50","line":"Holy roller,","reply_to":"16"}
+		]
+	],
+	[
+		{"id":"51","line":"Youuu can't know wo wow","reply_to":"50"},
+		[
+			{"id":"51","line":"Youuu can't know wo wow","reply_to":"50"}
+		]
+	],
+	[	{"id":"50","line":"Holy roller,","reply_to":"16"},
+		[
+			{"id":"50","line":"Holy roller,","reply_to":"16"}
+		]
+	],
+	[
+		{"id":"51","line":"Youuu can't know wo wow","reply_to":"50"},
+		[
+			{"id":"51","line":"Youuu can't know wo wow","reply_to":"50"}
+		]
+	]
+];
+
+
+
+
+
+
+
+
+
+
+
+
+
+//thread var after get_thread_alternatives(), nested object style
+full_poem = [
+	{																				//full_poem[0]  	  		(arr)
+		"line" = {"id":"4","line":"The holy ghost","reply_to":"0"}					//full_poem[0]["line"] 		(obj)
+	},
+	[
+		"line" = {"id":"5","line":"Well, I think you can.","reply_to":"4"},					//full_poem[1]["line"] 		(obj)
+		"alts" = [																			//full_poem[1]["alts"] 		(arr)
+			{"id":"5","line":"Well, I think you can.","reply_to":"4"},						//full_poem[1]["alts"][0]	(obj)
+			{"id":"9","line":"Don't you know his plan?","reply_to":"4"}						//full_poem[1]["alts"][1]	(obj)
+		]
+	],
+	[
+		{"id":"7","line":"Well the world, at most, is a homemade crypt","reply_to":"5"},
+		[
+			{"id":"7","line":"Well the world, at most, is a homemade crypt","reply_to":"5"},
+			{"id":"11","line":"Bike wheels turning up the street","reply_to":"5"},
+			{"id":"31","line":"Where's your forest gland?","reply_to":"5"},
+			{"id":"348","line":"see, it's a metaphor for a man, the one I visit in my dreams","reply_to":"5"}
+		]
+	],
+	[
+		{"id":"8","line":"I made from my rib in a lighting dance","reply_to":"7"},
+		[
+			{"id":"8","line":"I made from my rib in a lighting dance","reply_to":"7"},
+			{"id":"52","line":"of golden showers and tattooed truckers' girlfriends","reply_to":"7"},
+			{"id":"189","line":"Cared for, loved, and desolate \n","reply_to":"7"},
+			{"id":"190","line":"Careless, loveless, and filled to the brim","reply_to":"7"}
+		]
+	],
+	[
+		{"id":"16","line":"In a fevered dance","reply_to":"8"},
+		[
+			{"id":"16","line":"In a fevered dance","reply_to":"8"},{"id":"48","line":"A fevered trance.","reply_to":"8"},
+			{"id":"49","line":"Yeller-bellered buck-toothed bad bitches.","reply_to":"8"}
+		]
+	],
+	[
+		{"id":"50","line":"Holy roller,","reply_to":"16"},
+		[
+			{"id":"50","line":"Holy roller,","reply_to":"16"}
+		]
+	],
+	[
+		{"id":"51","line":"Youuu can't know wo wow","reply_to":"50"},
+		[
+			{"id":"51","line":"Youuu can't know wo wow","reply_to":"50"}
+		]
+	],
+	[	{"id":"50","line":"Holy roller,","reply_to":"16"},
+		[
+			{"id":"50","line":"Holy roller,","reply_to":"16"}
+		]
+	],
+	[
+		{"id":"51","line":"Youuu can't know wo wow","reply_to":"50"},
+		[
+			{"id":"51","line":"Youuu can't know wo wow","reply_to":"50"}
+		]
+	]
+];
+
+
+
+
+
+
+
+
+
+
+
+
+

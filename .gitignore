@@ -1,0 +1,8 @@
+.DS_store
+
+application/config/database.php
+application/config/database_remote.php
+application/config/config.php
+application/config/configOLD.php
+application/config/hybridauthlib.php
+application/config/email.php

@@ -1,0 +1,1018 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"get_line_by",
+				"get_line_by_reply_to"
+			],
+			[
+				"min",
+				"min-height"
+			],
+			[
+				"get_line",
+				"get_line_by_reply_to"
+			],
+			[
+				"get_",
+				"get_line_by_id_local"
+			],
+			[
+				"set",
+				"set_actions"
+			],
+			[
+				"targ",
+				"target_id"
+			],
+			[
+				"for",
+				"for	for (…) {…}"
+			],
+			[
+				"full_",
+				"full_poem"
+			],
+			[
+				"re",
+				"return"
+			],
+			[
+				"di",
+				"disp_poem"
+			],
+			[
+				"get",
+				"get_focus_replies"
+			],
+			[
+				"repl",
+				"replies"
+			],
+			[
+				"font",
+				"font-family"
+			],
+			[
+				"border-s",
+				"border-style"
+			],
+			[
+				"ou",
+				"outline-width"
+			],
+			[
+				"fon",
+				"font-size"
+			],
+			[
+				"backg",
+				"background-color"
+			],
+			[
+				"te",
+				"text-decoration"
+			],
+			[
+				"f",
+				"font-style"
+			],
+			[
+				"max",
+				"max-width"
+			],
+			[
+				"mar",
+				"margin-right"
+			],
+			[
+				"pad",
+				"padding-top"
+			],
+			[
+				"row",
+				"row_array"
+			],
+			[
+				"insert",
+				"insert_id"
+			],
+			[
+				"get_lat",
+				"get_latest_replies"
+			],
+			[
+				"num",
+				"num_rows"
+			],
+			[
+				"new",
+				"new_focus"
+			],
+			[
+				"result",
+				"result_array"
+			],
+			[
+				"reply",
+				"reply_to"
+			],
+			[
+				"rep",
+				"reply_to"
+			],
+			[
+				"array_un",
+				"array_unshift"
+			],
+			[
+				"provider",
+				"provider_uid"
+			],
+			[
+				"count",
+				"count_unique"
+			],
+			[
+				"usr",
+				"usr_tag"
+			],
+			[
+				"sc",
+				"score_relevance3"
+			],
+			[
+				"collect",
+				"collect_tags"
+			],
+			[
+				"enty",
+				"entry_id"
+			],
+			[
+				"tag",
+				"tag_id"
+			],
+			[
+				"tags",
+				"tags_entries"
+			],
+			[
+				"score",
+				"score_relevance"
+			],
+			[
+				"cons",
+				"cons_dupes"
+			],
+			[
+				"json",
+				"json_encode"
+			],
+			[
+				"inp",
+				"inp_col"
+			],
+			[
+				"back",
+				"background-repeat"
+			],
+			[
+				"c",
+				"center"
+			],
+			[
+				"ba",
+				"background-position"
+			],
+			[
+				"bac",
+				"background-image"
+			],
+			[
+				"po",
+				"background-position"
+			],
+			[
+				"folder",
+				"folder_items"
+			],
+			[
+				"border",
+				"border-bottom"
+			],
+			[
+				"log",
+				"log_message"
+			],
+			[
+				"e",
+				"entries"
+			],
+			[
+				"ajax",
+				"ajax_port"
+			],
+			[
+				"open",
+				"open_uri_tags"
+			],
+			[
+				"lo",
+				"loc_tags"
+			],
+			[
+				"data",
+				"data2"
+			],
+			[
+				"user",
+				"user_profile"
+			],
+			[
+				"ow",
+				"owner_id"
+			],
+			[
+				"create_en",
+				"create_entry_model"
+			],
+			[
+				"entr",
+				"entry_id"
+			],
+			[
+				"rating",
+				"rating_entry_id"
+			],
+			[
+				"create",
+				"create_entry_model"
+			],
+			[
+				"cre",
+				"create_entry_model"
+			],
+			[
+				"tas",
+				"tags_data"
+			],
+			[
+				"sour",
+				"sources_data"
+			],
+			[
+				"gather",
+				"gather_records"
+			],
+			[
+				"update",
+				"update_data"
+			],
+			[
+				"all",
+				"all_tags"
+			],
+			[
+				"segment",
+				"segment_array"
+			],
+			[
+				"main",
+				"main_model"
+			],
+			[
+				"backr",
+				"background-clip"
+			],
+			[
+				"foler",
+				"folder_icon"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"l",
+				"list-style"
+			],
+			[
+				"sin",
+				"single_background"
+			],
+			[
+				"bak",
+				"background-color"
+			],
+			[
+				"b",
+				"bottom"
+			],
+			[
+				"logo",
+				"logobanner"
+			],
+			[
+				"ma",
+				"max-width"
+			],
+			[
+				"pa",
+				"padding"
+			],
+			[
+				"bord",
+				"border-bottom"
+			],
+			[
+				"en",
+				"entry"
+			],
+			[
+				"show_",
+				"show_404"
+			],
+			[
+				"jso",
+				"json_encode"
+			],
+			[
+				"int",
+				"interval"
+			],
+			[
+				"inter",
+				"interval_save"
+			],
+			[
+				"bor",
+				"border-radius"
+			],
+			[
+				"v",
+				"vertical-align"
+			],
+			[
+				"tab",
+				"table-cell"
+			],
+			[
+				"doc",
+				"doc_headings_selected"
+			],
+			[
+				"do",
+				"doc_headings_selected"
+			],
+			[
+				"doc_",
+				"doc_headings"
+			],
+			[
+				"doc_headings",
+				"doc_headings_selected"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "application/models/exp_model.php",
+			"settings":
+			{
+				"buffer_size": 6013,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "assets/js/controller.js",
+			"settings":
+			{
+				"buffer_size": 6227,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "application/controllers/Experience.php",
+			"settings":
+			{
+				"buffer_size": 2524,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "application/controllers/Ajax_port.php",
+			"settings":
+			{
+				"buffer_size": 1087,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "application/core/MY_Controller.php",
+			"settings":
+			{
+				"buffer_size": 1678,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "application/logs/log-2016-05-14.php",
+			"settings":
+			{
+				"buffer_size": 5449946,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "system/core/Common.php",
+			"settings":
+			{
+				"buffer_size": 21943,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "application/config/config.php",
+			"settings":
+			{
+				"buffer_size": 19147,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "application/config/database.php",
+			"settings":
+			{
+				"buffer_size": 3255,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 207.0,
+		"selected_items":
+		[
+			[
+				"sph",
+				"Set Syntax: PHP"
+			],
+			[
+				"syn php",
+				"Set Syntax: PHP"
+			],
+			[
+				"set css",
+				"Set Syntax: CSS"
+			],
+			[
+				"save",
+				"Project: Save As"
+			],
+			[
+				"",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 449.0
+	},
+	"console":
+	{
+		"height": 125.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/Patrick/Apps/PoetryStorm/application/config/config.php",
+		"/Users/Patrick/Apps/PoetryStorm/application/config/autoload.php",
+		"/Users/Patrick/Apps/PoetryStormLive/PoetryStormLive.sublime-project",
+		"/Users/Patrick/Apps/PoetryStorm/application/models/main_model.php",
+		"/Users/Patrick/Apps/PoetryStorm/application/logs/log-2015-10-17.php",
+		"/Users/Patrick/Apps/PoetryStorm/.htaccess",
+		"/Users/Patrick/Apps/PoetryStorm/index.php",
+		"/Users/Patrick/Apps/PoetryStorm/application/logs/log-2016-05-13.php",
+		"/Users/Patrick/Apps/PoetryStorm/sftp-config.json",
+		"/Users/Patrick/Apps/PoetryStorm/application/config/database.php",
+		"/Users/Patrick/Apps/PoetryStorm/application/logs/log-2015-10-15.php",
+		"/Users/Patrick/Apps/PoetryStorm/application/logs/log-2015-10-1509.php",
+		"/Users/Patrick/Apps/PoetryStorm/application/views/experience.php",
+		"/Users/Patrick/Apps/PoetryStorm/assets/css/experience.css",
+		"/Users/Patrick/Apps/PoetryStorm/application/core/MY_controller.php",
+		"/Users/Patrick/Apps/PoetryStorm/application/logs/log-2015-09-29.php",
+		"/Users/Patrick/Desktop/webdesignmeetup.html",
+		"/Users/Patrick/Apps/PoetryStorm/application/logs/log-2015-10-02.php",
+		"/Users/Patrick/code/blog/index.html",
+		"/Users/Patrick/code/blog/page2.html",
+		"/Users/Patrick/Apps/PoetryStorm/.gitignore",
+		"/Users/Patrick/Apps/PoetryStorm/application/.htaccess",
+		"/Users/patrickturmala/Downloads/Lightfast_WP_Unzip/README.md",
+		"/Users/patrickturmala/Desktop/delete.html",
+		"/Users/patrickturmala/Apps/PoetryStorm/assets/css/experience.css",
+		"/Users/patrickturmala/Apps/PoetryStorm/application/views/experience_ajax.php",
+		"/Users/patrickturmala/Apps/PoetryStorm/application/views/footer.php",
+		"/Users/patrickturmala/Documents/Internet/Poetry Storm/Pitch.txt",
+		"/Users/patrickturmala/Apps/PoetryStorm/application/logs/log-2015-05-04.php",
+		"/Users/patrickturmala/Apps/PoetryStorm/application/config/config.php",
+		"/Users/patrickturmala/Apps/PoetryStorm/assets/css/main.css",
+		"/Users/patrickturmala/Apps/PoetryStorm/application/models/main_model.php",
+		"/Users/patrickturmala/Apps/PoetryStorm/application/models/exp_model.php",
+		"/Users/patrickturmala/Apps/PoetryStorm/application/views/experience.php",
+		"/Users/patrickturmala/Apps/PoetryStorm/assets/js/main.js",
+		"/Users/patrickturmala/Apps/PoetryStorm/application/views/experience2.php",
+		"/Users/patrickturmala/Apps/PoetryStorm/application/views/header.php",
+		"/Users/patrickturmala/Apps/PoetryStorm/application/controllers/logout.php",
+		"/Users/patrickturmala/Apps/PoetryStorm/application/views/new.php",
+		"/Users/patrickturmala/Apps/PoetryStorm/application/controllers/home.php",
+		"/Users/patrickturmala/Apps/PoetryStorm/assets/css/home_guest_styles.css",
+		"/Users/patrickturmala/Apps/PoetryStorm/assets/img/Logo_circular.jpg",
+		"/Users/patrickturmala/Documents/Internet/Poetry Storm/Video",
+		"/Users/patrickturmala/Apps/PoetryStorm/application/views/home.php",
+		"/Users/patrickturmala/Apps/PoetryStorm/application/views/login_view.php",
+		"/Users/patrickturmala/Apps/PoetryStorm/.htaccess",
+		"/Users/patrickturmala/Documents/Internet/Poetry Storm/Hello, Anonyomous.",
+		"/Users/patrickturmala/Apps/PoetryStorm/application/config/autoload.php",
+		"/Users/patrickturmala/Apps/PoetryStorm/application/config/hybridauthlib.php",
+		"/Users/patrickturmala/Apps/PoetryStorm/application/libraries/HybridAuthLib.php",
+		"/Users/patrickturmala/Apps/PoetryStorm/application/models/send_model.php",
+		"/Users/patrickturmala/Apps/PoetryStorm/application/core/MY_controller.php",
+		"/Users/patrickturmala/Apps/PoetryStorm/index.php",
+		"/Users/patrickturmala/Apps/PoetryStorm/sftp-config.json",
+		"/Users/patrickturmala/Apps/PoetryStorm/application/controllers/experience.php",
+		"/Users/patrickturmala/Apps/PoetryStorm/application/logs/log-2015-02-06.php",
+		"/Users/patrickturmala/Apps/PoetryStorm/application/config/routes.php",
+		"/Users/patrickturmala/Apps/PoetryStorm/application/models/admin_model.php",
+		"/Users/patrickturmala/Apps/PoetryStorm/application/logs/log-2015-02-04.php",
+		"/Users/patrickturmala/Apps/PoetryStorm/application/controllers/verify.php",
+		"/Users/patrickturmala/Apps/PoetryStorm/application/models/verify_model.php",
+		"/Users/patrickturmala/Apps/PoetryStorm/application/controllers/login.php",
+		"/Users/patrickturmala/Apps/PoetryStorm/application/libraries/Login_lib.php",
+		"/Users/patrickturmala/Apps/PoetryStorm/application/config/database.php",
+		"/Users/patrickturmala/Apps/PoetryStorm/application/controllers/index.php",
+		"/Users/patrickturmala/Apps/PoetryStorm/application/models/user_model.php",
+		"/Users/patrickturmala/Apps/Tagtree/application/logs/log-2015-01-12.php",
+		"/Users/patrickturmala/Apps/Tagtree/application/logs/log-2015-01-06.php",
+		"/Users/patrickturmala/Apps/Tagtree/assets/css/header_structure.css",
+		"/Users/patrickturmala/Apps/Tagtree/assets/css/default_home_style.css",
+		"/Users/patrickturmala/Apps/Tagtree/assets/css/home_structure.css",
+		"/Users/patrickturmala/Apps/Tagtree/assets/css/gas.css",
+		"/Users/patrickturmala/Apps/Tagtree/application/views/home_mockup.php",
+		"/Users/patrickturmala/Apps/Tagtree/application/views/header.php",
+		"/Users/patrickturmala/Apps/Tagtree/Tagtree.sublime-project",
+		"/Users/patrickturmala/Apps/Tagtree/assets/css/original_sheet.css",
+		"/Users/patrickturmala/Apps/Tagtree/assets/css/style_default.css",
+		"/Users/patrickturmala/Apps/Tagtree/application/logs/log-2014-12-10.php",
+		"/Users/patrickturmala/Apps/Tagtree/application/config/config.php",
+		"/Users/patrickturmala/Apps/Tagtree/application/models/main_model.php",
+		"/Users/patrickturmala/Apps/Tagtree/application/controllers/ajax_port.php",
+		"/Users/patrickturmala/Apps/Tagtree/assets/js/controller.js",
+		"/Users/patrickturmala/Apps/Tagtree/assets/js/controller_notes.js",
+		"/Users/patrickturmala/Apps/Tagtree/application/logs/log-2014-12-08.php",
+		"/Users/patrickturmala/Apps/Tagtree/jquery-2.1.1.min.js",
+		"/Users/patrickturmala/Apps/Tagtree/assets/js/test_ajax.html",
+		"/Users/patrickturmala/Apps/Tagtree/assets/js/test.js",
+		"/Users/patrickturmala/Apps/Tagtree/application/models/user_model.php",
+		"/Users/patrickturmala/Apps/Tagtree/application/core/MY_controller.php",
+		"/Users/patrickturmala/Apps/Tagtree/application/views/create_entry.php",
+		"/Users/patrickturmala/Apps/Tagtree/assets/css/style_header.css",
+		"/Users/patrickturmala/Apps/Tagtree/assets/css/style.css",
+		"/Users/patrickturmala/Apps/Tagtree/assets/css/forms.css",
+		"/Users/patrickturmala/Apps/Tagtree/assets/js/create_entry-ui_helper.js",
+		"/Users/patrickturmala/Apps/Tagtree/application/models/create_entry_model.php",
+		"/Users/patrickturmala/Apps/Tagtree/application/controllers/create_entry.php",
+		"/Users/patrickturmala/Apps/Tagtree/application/libraries/Login_lib.php",
+		"/Users/patrickturmala/Apps/Tagtree/application/controllers/home.php",
+		"/Users/patrickturmala/Apps/Tagtree/application/config/autoload.php",
+		"/Users/patrickturmala/Apps/Tagtree/application/config/routes.php",
+		"/Users/patrickturmala/Apps/Tagtree/application/views/footer.php",
+		"/Users/patrickturmala/Apps/Tagtree/application/views/home.php",
+		"/Users/patrickturmala/Apps/Tagtree/assets/ajax_client.js",
+		"/Users/patrickturmala/Apps/Tagtree/application/helpers/asset_helper.php",
+		"/Users/patrickturmala/Documents/Internet/Tagerarchy/application/config/config.php",
+		"/Users/patrickturmala/Documents/Internet/Tagerarchy/application/config/autoload.php",
+		"/Users/patrickturmala/Documents/Internet/Tagerarchy/application/models/main_model.php",
+		"/Users/patrickturmala/Documents/Internet/Tagerarchy/application/controllers/home.php",
+		"/Users/patrickturmala/Documents/Internet/Tagerarchy/application/views/header.php",
+		"/Users/patrickturmala/Documents/Internet/Tagerarchy/application/logs/log-2014-05-16.php",
+		"/Users/patrickturmala/Documents/Internet/Tagerarchy/application/config/database.php",
+		"/Users/patrickturmala/Documents/Internet/Tagerarchy/assets/js/controller.js",
+		"/Users/patrickturmala/Documents/Internet/Tagerarchy/application/config/routes.php",
+		"/Users/patrickturmala/Documents/Internet/Tagerarchy/application/models/uri_model.php",
+		"/Users/patrickturmala/Documents/Internet/Tagerarchy/application/views/footer.php",
+		"/Users/patrickturmala/Documents/Internet/Tagerarchy/assets/css/style_header.css",
+		"/Users/patrickturmala/Documents/Internet/Tagerarchy/assets/css/style_single.css",
+		"/Users/patrickturmala/Documents/Internet/Tagerarchy/assets/css/style.css",
+		"/Users/patrickturmala/Documents/Internet/Tagerarchy/application/views/entries/index.php",
+		"/Users/patrickturmala/Documents/Internet/Tagerarchy/application/views/entries/single.php",
+		"/Users/patrickturmala/Documents/Internet/Tagerarchy/application/views/css/style.css",
+		"/Users/patrickturmala/Documents/Internet/Tagerarchy/application/config/asset.php",
+		"/Users/patrickturmala/Documents/Internet/Tagerarchy/application/helpers/asset_helper.php",
+		"/Users/patrickturmala/Documents/Internet/Tagerarchy/application/views/headernew.php",
+		"/Users/patrickturmala/Documents/Internet/Tagerarchy/application/controllers/home",
+		"/Users/patrickturmala/Documents/Internet/Tagerarchy/application/models/ionhauth_model.php",
+		"/Users/patrickturmala/Documents/Internet/Tagerarchy/application/models/ion_auth_model.php",
+		"/Users/patrickturmala/Documents/Internet/Tagerarchy/application/libraries/Ion_auth.php"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			"main.css,<open folders>",
+			"main.css"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"######-!-!-!-!",
+			"######-!-!-!",
+			"focus_line",
+			"add_repl",
+			"get_poem_tree",
+			"get_replies",
+			"-30deg",
+			"30deg",
+			"verify",
+			"');\n",
+			");\n",
+			"data",
+			"48pt",
+			"  \n"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"12deg",
+			"-30deg"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "application/models/exp_model.php",
+					"settings":
+					{
+						"buffer_size": 6013,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								377,
+								377
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 4056.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "assets/js/controller.js",
+					"settings":
+					{
+						"buffer_size": 6227,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								550,
+								550
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "application/controllers/Experience.php",
+					"settings":
+					{
+						"buffer_size": 2524,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								271,
+								271
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "application/controllers/Ajax_port.php",
+					"settings":
+					{
+						"buffer_size": 1087,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								962,
+								962
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "application/core/MY_Controller.php",
+					"settings":
+					{
+						"buffer_size": 1678,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								318,
+								318
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 4.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "application/logs/log-2016-05-14.php",
+					"settings":
+					{
+						"buffer_size": 5449946,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/PHP/PHP.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 759251.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "system/core/Common.php",
+					"settings":
+					{
+						"buffer_size": 21943,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								6475,
+								6475
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"file": "application/config/config.php",
+					"settings":
+					{
+						"buffer_size": 19147,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2980,
+								2980
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/PHP/PHP.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 855.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 8,
+					"file": "application/config/database.php",
+					"settings":
+					{
+						"buffer_size": 3255,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2612,
+								2612
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/PHP/PHP.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 372.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 34.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.sftp":
+	{
+		"height": 100.0
+	},
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"",
+				"application/controllers/ajax_port.php"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 227.0,
+	"status_bar_visible": true
+}
